@@ -1,0 +1,10 @@
+                                                               !! GENERAL KNOWLEDGE QUIZ !! 
+=======================================================================================================
+
+-> Please open main.py file to start executing the progarm for quiz.
+-> Progarm will aks for MySQL database name in which you would like to create table for MySQL  connectivity portion.
+-> Program will ask for password aslo of your MySQL server.
+-> Another txt file named as cheat.txt is also there to help you cheat for some hard question if you want to cheat.
+-> Enjoy the quiz !!!
+
+                                                                            !! THANK YOU !!
